@@ -1,0 +1,172 @@
+[
+    {
+        "id": 1,
+        "nombre": "Pikachu",
+        "imagen": "https://link_a_imagen_de_pikachu.jpg",
+        "caracteristicas": {
+            "peso": 6.0,
+            "altura": 0.4,
+            "fuerza": 55,
+            "edad": 5
+        },
+        "habilidades": [
+            "Impactrueno",
+            "Cola f\u00e9rrea"
+        ],
+        "tipo": "El\u00e9ctrico",
+        "habitat": "Bosques"
+    },
+    {
+        "id": 2,
+        "nombre": "Bulbasaur",
+        "imagen": "https://link_a_imagen_de_bulbasaur.jpg",
+        "caracteristicas": {
+            "peso": 6.9,
+            "altura": 0.7,
+            "fuerza": 49,
+            "edad": 7
+        },
+        "habilidades": [
+            "L\u00e1tigo cepa",
+            "R\u00e1faga solar"
+        ],
+        "tipo": "Planta/Veneno",
+        "habitat": "Praderas"
+    },
+    {
+        "id": 3,
+        "nombre": "Charmander",
+        "imagen": "https://link_a_imagen_de_charmander.jpg",
+        "caracteristicas": {
+            "peso": 8.5,
+            "altura": 0.6,
+            "fuerza": 52,
+            "edad": 6
+        },
+        "habilidades": [
+            "Lanzallamas",
+            "Ascuas"
+        ],
+        "tipo": "Fuego",
+        "habitat": "Monta\u00f1as"
+    },
+    {
+        "id": 4,
+        "nombre": "Squirtle",
+        "imagen": "https://link_a_imagen_de_squirtle.jpg",
+        "caracteristicas": {
+            "peso": 9.0,
+            "altura": 0.5,
+            "fuerza": 50,
+            "edad": 6
+        },
+        "habilidades": [
+            "Hidrobomba",
+            "Burbuja"
+        ],
+        "tipo": "Agua",
+        "habitat": "R\u00edos"
+    },
+    {
+        "id": 5,
+        "nombre": "Jigglypuff",
+        "imagen": "https://link_a_imagen_de_jigglypuff.jpg",
+        "caracteristicas": {
+            "peso": 5.5,
+            "altura": 0.6,
+            "fuerza": 45,
+            "edad": 4
+        },
+        "habilidades": [
+            "Canto",
+            "Dulzura"
+        ],
+        "tipo": "Hada",
+        "habitat": "Cavernas"
+    },
+    {
+        "id": 6,
+        "nombre": "Meowth",
+        "imagen": "https://link_a_imagen_de_meowth.jpg",
+        "caracteristicas": {
+            "peso": 4.2,
+            "altura": 0.4,
+            "fuerza": 40,
+            "edad": 3
+        },
+        "habilidades": [
+            "Rastro",
+            "Ara\u00f1azo"
+        ],
+        "tipo": "Normal",
+        "habitat": "Ciudades"
+    },
+    {
+        "id": 7,
+        "nombre": "Psyduck",
+        "imagen": "https://link_a_imagen_de_psyduck.jpg",
+        "caracteristicas": {
+            "peso": 19.6,
+            "altura": 0.8,
+            "fuerza": 50,
+            "edad": 7
+        },
+        "habilidades": [
+            "Confusi\u00f3n",
+            "Hidrochorro"
+        ],
+        "tipo": "Agua",
+        "habitat": "Lagos"
+    },
+    {
+        "id": 8,
+        "nombre": "Machop",
+        "imagen": "https://link_a_imagen_de_machop.jpg",
+        "caracteristicas": {
+            "peso": 19.5,
+            "altura": 0.8,
+            "fuerza": 70,
+            "edad": 6
+        },
+        "habilidades": [
+            "Pu\u00f1o fuego",
+            "Pu\u00f1o hielo"
+        ],
+        "tipo": "Lucha",
+        "habitat": "Monta\u00f1as"
+    },
+    {
+        "id": 9,
+        "nombre": "Magnemite",
+        "imagen": "https://link_a_imagen_de_magnemite.jpg",
+        "caracteristicas": {
+            "peso": 6.0,
+            "altura": 0.3,
+            "fuerza": 55,
+            "edad": 5
+        },
+        "habilidades": [
+            "Im\u00e1n",
+            "Electrobola"
+        ],
+        "tipo": "El\u00e9ctrico/Acero",
+        "habitat": "\u00c1reas industriales"
+    },
+    {
+        "id": 10,
+        "nombre": "Sandshrew",
+        "imagen": "https://link_a_imagen_de_sandshrew.jpg",
+        "caracteristicas": {
+            "peso": 12.0,
+            "altura": 0.6,
+            "fuerza": 50,
+            "edad": 6
+        },
+        "habilidades": [
+            "Ara\u00f1azo",
+            "Rugido"
+        ],
+        "tipo": "Tierra",
+        "habitat": "Desiertos"
+    }
+]
